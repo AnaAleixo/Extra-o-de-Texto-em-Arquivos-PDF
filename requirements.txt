@@ -1,0 +1,7 @@
+notebook
+pypdf2
+pymupdf
+tika
+camelot-py
+opencv-python
+ghostscript
